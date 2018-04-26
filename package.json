@@ -1,7 +1,7 @@
 {
   "name": "s3upload-coffee-javascript",
-  "version": "0.0.0",
-  "repository": "https://github.com/tadruj/s3upload-coffee-javascript",
+  "version": "0.1.0",
+  "repository": "https://github.com/nuevomundo/s3upload-coffee-javascript",
   "description": "Client Side S3 CORS Upload for Amazon S3",
   "main": "s3upload.js",
   "keywords": [
